@@ -1,0 +1,27 @@
+{
+  "name": "glitch-node-intern",
+  "version": "1.0.0",
+  "description": "Challenge for a NodeJs Backend Intern at Glitch",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "get-csv": "^3.0.3",
+    "random-key-generator": "^1.2.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RedJanvier/glitch-node-intern.git"
+  },
+  "keywords": [],
+  "author": "RedJanvier",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RedJanvier/glitch-node-intern/issues"
+  },
+  "homepage": "https://github.com/RedJanvier/glitch-node-intern#readme"
+}
